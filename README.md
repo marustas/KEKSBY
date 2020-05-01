@@ -1,2 +1,2 @@
 # KEKSBY
-furst site created with the help of HTML and CSS
+first site created with the help of HTML and CSS
